@@ -6997,13 +6997,12 @@ __metadata:
   linkType: hard
 
 "@types/ember__debug@npm:*, @types/ember__debug@npm:^4.0.3":
-  version: 4.0.3
-  resolution: "@types/ember__debug@npm:4.0.3"
+  version: 4.0.8
+  resolution: "@types/ember__debug@npm:4.0.8"
   dependencies:
-    "@types/ember__debug": "*"
     "@types/ember__object": "*"
     "@types/ember__owner": "*"
-  checksum: 69a31777a6ba3dba0c8733b59e06e3f5eae0350cf9665421fd7adf23b8d9e43abfdc423d615b9ac91a4208c804e59c5d5f2b3000a7ed957bb9114a381536009c
+  checksum: a379664f6de9c63e37c6d834185e0609a7ee3e7993650912bf0a02c51770b94818b86fa7928b80f7df3b32e4cdcc5344917da65341d66d0950599ad11656e5a4
   languageName: node
   linkType: hard
 
