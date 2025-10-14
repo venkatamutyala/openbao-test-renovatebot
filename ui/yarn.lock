@@ -7104,8 +7104,8 @@ __metadata:
   linkType: hard
 
 "@types/ember__test-helpers@npm:*, @types/ember__test-helpers@npm:^2.8.2":
-  version: 2.8.2
-  resolution: "@types/ember__test-helpers@npm:2.8.2"
+  version: 2.8.3
+  resolution: "@types/ember__test-helpers@npm:2.8.3"
   dependencies:
     "@types/ember-resolver": "*"
     "@types/ember__application": "*"
@@ -7113,7 +7113,7 @@ __metadata:
     "@types/ember__owner": "*"
     "@types/ember__test-helpers": "*"
     "@types/htmlbars-inline-precompile": "*"
-  checksum: 8f89692d1808133b98e225b48ca5e3d94a781d539f092529f18ff525f898e914b3de6393fe7ed97567b5a04ca1fea6325325fd3e54a03b97c14c9ae4e8ee033b
+  checksum: be95c369c1aa9367d16bb7f8f8e4670b557b98c4228ca7485e7e4a29348f1950413d617ea399d73f391d000439b8a8f02a25d91626c05067f06bda2f7a186722
   languageName: node
   linkType: hard
 
