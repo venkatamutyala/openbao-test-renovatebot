@@ -6988,11 +6988,11 @@ __metadata:
   linkType: hard
 
 "@types/ember__controller@npm:*, @types/ember__controller@npm:^4.0.3":
-  version: 4.0.3
-  resolution: "@types/ember__controller@npm:4.0.3"
+  version: 4.0.12
+  resolution: "@types/ember__controller@npm:4.0.12"
   dependencies:
     "@types/ember__object": "*"
-  checksum: 1648b656f4a0cc10a28351d893fa765234bf0d8ab123afe75ba2259b31296840ae00da0328bed19241bfa66c0a59a6d237041493440008cd0a8daf9ef8fd1fa3
+  checksum: 02001690069e1e537fc92d84d2de103693e499bc2c7ba12597a454aa7c45b7d1b93092232c44601d06915f28240ec189eb1ca0aaec139ebf39dd63e6b42b197b
   languageName: node
   linkType: hard
 
