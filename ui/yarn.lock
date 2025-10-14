@@ -15062,9 +15062,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ember-concurrency@npm:2.3.4":
-  version: 2.3.4
-  resolution: "ember-concurrency@npm:2.3.4"
+"ember-concurrency@npm:2.3.7":
+  version: 2.3.7
+  resolution: "ember-concurrency@npm:2.3.7"
   dependencies:
     "@babel/helper-plugin-utils": ^7.12.13
     "@babel/types": ^7.12.13
@@ -15074,7 +15074,7 @@ __metadata:
     ember-cli-htmlbars: ^5.7.1
     ember-compatibility-helpers: ^1.2.0
     ember-destroyable-polyfill: ^2.0.2
-  checksum: 14b68d1da5575b14dc038af8146b8de29f5b0b961ca57275d1930cf77f8b0d8ba20105d40a5755b79c3f8ad65449195beb94029a687c72a07486c5024ab98154
+  checksum: 29fabb073e1f651200f3d6f29266f7316fba41ccae00267e60249ad0e0f7b6abd04e733cc698eb849761bfefd4d43cc42b8dbfaba84cf6ac5f242d9126d90d86
   languageName: node
   linkType: hard
 
@@ -28149,7 +28149,7 @@ __metadata:
     ember-cli-terser: ^4.0.2
     ember-cli-typescript: ^5.2.1
     ember-composable-helpers: 5.0.0
-    ember-concurrency: 2.3.4
+    ember-concurrency: 2.3.7
     ember-copy: 2.0.1
     ember-d3: ^0.5.1
     ember-data: ~4.5.0
