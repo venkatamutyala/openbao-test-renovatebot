@@ -15283,7 +15283,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ember-inflector@npm:4.0.2, ember-inflector@npm:^2.0.0 || ^3.0.0 || ^4.0.2, ember-inflector@npm:^4.0.2":
+"ember-inflector@npm:4.0.3":
+  version: 4.0.3
+  resolution: "ember-inflector@npm:4.0.3"
+  dependencies:
+    ember-cli-babel: ^7.26.11
+  peerDependencies:
+    ember-source: ^3.16.0 || ^4.0.0 || ^5.0.0
+  checksum: b4dbd31e6f1141082cee70236aa5575dd32f9d1562599911fa920d34de458781df4f7a3aee108fd86062ecaa1337064345aee1e55271a3c1e1975947057ce037
+  languageName: node
+  linkType: hard
+
+"ember-inflector@npm:^2.0.0 || ^3.0.0 || ^4.0.2, ember-inflector@npm:^4.0.2":
   version: 4.0.2
   resolution: "ember-inflector@npm:4.0.2"
   dependencies:
@@ -28156,7 +28167,7 @@ __metadata:
     ember-engines: 0.8.23
     ember-export-application-global: ^2.0.1
     ember-fetch: ^8.1.1
-    ember-inflector: 4.0.2
+    ember-inflector: 4.0.3
     ember-load-initializers: ^2.1.2
     ember-maybe-in-element: ^2.0.3
     ember-modal-dialog: ^4.1.5
