@@ -14791,9 +14791,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ember-cli-typescript@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "ember-cli-typescript@npm:5.0.0"
+"ember-cli-typescript@npm:^5.0.0, ember-cli-typescript@npm:^5.1.0, ember-cli-typescript@npm:^5.2.1":
+  version: 5.3.0
+  resolution: "ember-cli-typescript@npm:5.3.0"
   dependencies:
     ansi-to-html: ^0.6.15
     broccoli-stew: ^3.0.0
@@ -14805,43 +14805,7 @@ __metadata:
     semver: ^7.3.2
     stagehand: ^1.0.0
     walk-sync: ^2.2.0
-  checksum: ac0d6088cd7e5bb17792e0db44e05f198eaea1484fd45f725b8caac8322b072d9d3dcf4d0d7a88fe66699ca88fe3ab564cc6dde98b63be92129c7acdb73c3da4
-  languageName: node
-  linkType: hard
-
-"ember-cli-typescript@npm:^5.1.0":
-  version: 5.1.1
-  resolution: "ember-cli-typescript@npm:5.1.1"
-  dependencies:
-    ansi-to-html: ^0.6.15
-    broccoli-stew: ^3.0.0
-    debug: ^4.0.0
-    execa: ^4.0.0
-    fs-extra: ^9.0.1
-    resolve: ^1.5.0
-    rsvp: ^4.8.1
-    semver: ^7.3.2
-    stagehand: ^1.0.0
-    walk-sync: ^2.2.0
-  checksum: 8f259f2893d26c173a6f94b4cf62840e4e7e2ab0ec633ddf1cd65894bef928b3c426dda9dab0a04f04a6702560271d4f0f0091370e64695e84a64b6f6fbc26c1
-  languageName: node
-  linkType: hard
-
-"ember-cli-typescript@npm:^5.2.1":
-  version: 5.2.1
-  resolution: "ember-cli-typescript@npm:5.2.1"
-  dependencies:
-    ansi-to-html: ^0.6.15
-    broccoli-stew: ^3.0.0
-    debug: ^4.0.0
-    execa: ^4.0.0
-    fs-extra: ^9.0.1
-    resolve: ^1.5.0
-    rsvp: ^4.8.1
-    semver: ^7.3.2
-    stagehand: ^1.0.0
-    walk-sync: ^2.2.0
-  checksum: b4306b37e9a9e070cc61a67acf404b30636ad2681379589fbc349c7e83158a7b634d792ab5af4cd4dd0770eecb8a901fa84d29a15167826db9c97b664a115df0
+  checksum: 58bc9f73513056293c0661c8ff14181606c9c98f26a83a094fdc72fbc0598111b84ce52fb8a9eb18e9c4a30d469ca62f503ae033a95a86f7b63dd81de9904aeb
   languageName: node
   linkType: hard
 
