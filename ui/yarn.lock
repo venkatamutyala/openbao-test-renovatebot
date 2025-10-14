@@ -14320,14 +14320,14 @@ __metadata:
   linkType: hard
 
 "ember-cli-deprecation-workflow@npm:^3.2.0":
-  version: 3.2.0
-  resolution: "ember-cli-deprecation-workflow@npm:3.2.0"
+  version: 3.4.0
+  resolution: "ember-cli-deprecation-workflow@npm:3.4.0"
   dependencies:
     "@babel/core": ^7.23.2
     ember-cli-babel: ^8.2.0
   peerDependencies:
-    ember-source: ">= 4.0.0"
-  checksum: 085018079f502e3c5ccf3c7c04856193b096240f97ab68e8e70bd85b96bd3a720a79fefeaa484369240e838b0882b2c844d27ce249d2364683dddcc28f25fb5b
+    ember-source: ">= 3.28.0"
+  checksum: ca75e2808b827279524872f06a3451af40bb8ee7766d6a2d69b7cd9acb5eb3f897e59aa2abb53edf60c41b68525671e2d61924268fc4684005cd6ded85051596
   languageName: node
   linkType: hard
 
