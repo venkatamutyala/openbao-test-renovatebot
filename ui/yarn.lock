@@ -15795,21 +15795,21 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ember-truth-helpers@npm:3.0.0, ember-truth-helpers@npm:^2.1.0 || ^3.0.0":
-  version: 3.0.0
-  resolution: "ember-truth-helpers@npm:3.0.0"
-  dependencies:
-    ember-cli-babel: ^7.22.1
-  checksum: 2848f30eb35046be4d5c4ae6ab36aa374d860ba37dbd6f529467182ead80166e2fc881f615f3fa0b25fd2ecf73e237c6f61e67bd182149776240d9ee3852a343
-  languageName: node
-  linkType: hard
-
-"ember-truth-helpers@npm:^3.0.0":
+"ember-truth-helpers@npm:3.1.1, ember-truth-helpers@npm:^3.0.0":
   version: 3.1.1
   resolution: "ember-truth-helpers@npm:3.1.1"
   dependencies:
     ember-cli-babel: ^7.22.1
   checksum: 6f3a779ae714cec543b39ca93caa98121e65046e48929e1890aa24b2592c4e90a703148694bae9d7ca9bfc68d9ae1f7e00392f0f288158ee962aefbae1f3c0b0
+  languageName: node
+  linkType: hard
+
+"ember-truth-helpers@npm:^2.1.0 || ^3.0.0":
+  version: 3.0.0
+  resolution: "ember-truth-helpers@npm:3.0.0"
+  dependencies:
+    ember-cli-babel: ^7.22.1
+  checksum: 2848f30eb35046be4d5c4ae6ab36aa374d860ba37dbd6f529467182ead80166e2fc881f615f3fa0b25fd2ecf73e237c6f61e67bd182149776240d9ee3852a343
   languageName: node
   linkType: hard
 
@@ -28176,7 +28176,7 @@ __metadata:
     ember-template-lint-plugin-prettier: 5.0.0
     ember-test-selectors: 7.1.0
     ember-tether: ^2.0.1
-    ember-truth-helpers: 3.0.0
+    ember-truth-helpers: 3.1.1
     ember-wormhole: 0.6.0
     escape-string-regexp: ^2.0.0
     eslint: ^9.24.0
