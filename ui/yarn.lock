@@ -7058,15 +7058,14 @@ __metadata:
   linkType: hard
 
 "@types/ember__routing@npm:*, @types/ember__routing@npm:^4.0.12":
-  version: 4.0.12
-  resolution: "@types/ember__routing@npm:4.0.12"
+  version: 4.0.23
+  resolution: "@types/ember__routing@npm:4.0.23"
   dependencies:
     "@types/ember": "*"
     "@types/ember__controller": "*"
     "@types/ember__object": "*"
-    "@types/ember__routing": "*"
     "@types/ember__service": "*"
-  checksum: 8c14b6de35c9b370175dc342610729dba51b315a09f538ca5ad4e95d15ae0938efec8a6fd5675b862f2ca95da46528160896a417040654c621c8dbca34d8185b
+  checksum: c28f714c4fc29d6eec84e60ffd152a73774643789ad8d0023b290643d9bcdc181fdbecdc636713c28a07a0f16b1e916c7706692169b112a25e9c2a37ba13321b
   languageName: node
   linkType: hard
 
