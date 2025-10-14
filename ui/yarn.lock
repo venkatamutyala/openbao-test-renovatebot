@@ -11956,9 +11956,9 @@ __metadata:
   linkType: hard
 
 "codemirror@npm:^5.58.2":
-  version: 5.61.0
-  resolution: "codemirror@npm:5.61.0"
-  checksum: d9081d4937fc237c972e12538721b47817a08557a30d692b32e09849977e5d91ca6c8984cdea417cf11a163fdbc3c7139fd66cefc6fcf32047c8cbecd21d2715
+  version: 5.65.20
+  resolution: "codemirror@npm:5.65.20"
+  checksum: 8fa3871ff8147e5aa48ee3b0f3e3ce4e545bc14d669377c479dcfdf0705976f9a545d8198357b25ca3ae9f36fcd204ffcba9e6d073a4bbb31c6785f91a32fd16
   languageName: node
   linkType: hard
 
