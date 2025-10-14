@@ -17119,7 +17119,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"fake-xml-http-request@npm:^2.1.1, fake-xml-http-request@npm:^2.1.2":
+"fake-xml-http-request@npm:^2.1.2":
   version: 2.1.2
   resolution: "fake-xml-http-request@npm:2.1.2"
   checksum: 7b1ebea1955c46cbda0e0c3308716cc82beca7bb6c549f1d1c2a8134203c9d6c5a21194e2c1e17650ff073ecbcd3e56cf1e21f248a86cbcb3567fd7a9ca4850e
@@ -23835,17 +23835,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"pretender@npm:^3.4.3":
-  version: 3.4.3
-  resolution: "pretender@npm:3.4.3"
-  dependencies:
-    fake-xml-http-request: ^2.1.1
-    route-recognizer: ^0.3.3
-  checksum: 2ac03977f489eb79882f1fd4bcfb949f6ca6226fd95f366ec35a73590bd76b52fc283e7d8e5a8e649982619097849a4240dce138afad9089b407b1feba5df4a3
-  languageName: node
-  linkType: hard
-
-"pretender@npm:^3.4.7":
+"pretender@npm:^3.4.3, pretender@npm:^3.4.7":
   version: 3.4.7
   resolution: "pretender@npm:3.4.7"
   dependencies:
