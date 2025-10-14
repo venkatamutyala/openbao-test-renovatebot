@@ -13888,9 +13888,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ember-auto-import@npm:2.10.0":
-  version: 2.10.0
-  resolution: "ember-auto-import@npm:2.10.0"
+"ember-auto-import@npm:2.11.1":
+  version: 2.11.1
+  resolution: "ember-auto-import@npm:2.11.1"
   dependencies:
     "@babel/core": ^7.16.7
     "@babel/plugin-proposal-class-properties": ^7.16.7
@@ -13928,7 +13928,7 @@ __metadata:
     style-loader: ^2.0.0
     typescript-memoize: ^1.0.0-alpha.3
     walk-sync: ^3.0.0
-  checksum: f122f7e42bd9c4cfd39e951d79531d23a5b03278bba762d7638951d017d9fe0ce32d2852284ea5761233cd4a66555b9e3dcadaa8c6370fc00581795f28c20f79
+  checksum: 1ba6b0c48a4d1396692e6ab78b94cde57daf38db06a52f9246d648b8c18ef3065e94ca5cd7cdacfe910ab81db786d4c6aea1e1c75ec711bb9a43288eda8393ec
   languageName: node
   linkType: hard
 
@@ -28129,7 +28129,7 @@ __metadata:
     deepmerge: ^4.3.1
     doctoc: ^2.2.1
     dompurify: ^3.0.2
-    ember-auto-import: 2.10.0
+    ember-auto-import: 2.11.1
     ember-basic-dropdown: 6.0.1
     ember-cli: ~4.4.0
     ember-cli-autoprefixer: ^0.8.1
