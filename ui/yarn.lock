@@ -14588,9 +14588,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ember-cli-page-object@npm:1.17.10":
-  version: 1.17.10
-  resolution: "ember-cli-page-object@npm:1.17.10"
+"ember-cli-page-object@npm:1.17.12":
+  version: 1.17.12
+  resolution: "ember-cli-page-object@npm:1.17.12"
   dependencies:
     broccoli-file-creator: ^2.1.1
     broccoli-merge-trees: ^2.0.0
@@ -14600,7 +14600,7 @@ __metadata:
     ember-native-dom-helpers: ^0.7.0
     jquery: ^3.4.1
     rsvp: ^4.7.0
-  checksum: 214e8358b92d04875ce6f5c90d3f4fbf9aaddabcf096f1c4380a03259c4c8c62b043cb49748b4c29acf1295731ba27a270a2e01f16993c086f0166e8dbff34cd
+  checksum: e4d8d0e69a93e824653fe4917fd376dafac30fc314ba06887dc6925ef8f7a6e5d3f080261a1e956f06313f36d2eb19edaee7127198917f0ccd6a798668bd8f39
   languageName: node
   linkType: hard
 
@@ -28142,7 +28142,7 @@ __metadata:
     ember-cli-htmlbars: ^6.3.0
     ember-cli-inject-live-reload: ^2.1.0
     ember-cli-mirage: 2.4.0
-    ember-cli-page-object: 1.17.10
+    ember-cli-page-object: 1.17.12
     ember-cli-sass: 11.0.1
     ember-cli-sri: "meirish/ember-cli-sri#rooturl"
     ember-cli-string-helpers: 6.1.0
