@@ -6848,11 +6848,11 @@ __metadata:
   linkType: hard
 
 "@types/ember-data__adapter@npm:^4.0.1":
-  version: 4.0.1
-  resolution: "@types/ember-data__adapter@npm:4.0.1"
+  version: 4.0.6
+  resolution: "@types/ember-data__adapter@npm:4.0.6"
   dependencies:
     "@types/ember-data": "*"
-  checksum: 5636fc85c2b7496d608af5494d1c6b82a3bf7f0d88f9037824bf203b0e4e167805544eebef63e019991a5a388e567851b211a041f4b3d12ddb1881748e5a65a9
+  checksum: 76d463a6ebde2863d05f7d0ffbbc32be86ecfb80f411bae066b2c70f2fa6053b4dd0382005bc84a9952be2b4d88d56232a7ec623126fdecde934d6760d3ef1ef
   languageName: node
   linkType: hard
 
