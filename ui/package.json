@@ -51,7 +51,7 @@
     ]
   },
   "devDependencies": {
-    "@babel/eslint-parser": "7.27.0",
+    "@babel/eslint-parser": "7.28.4",
     "@babel/plugin-proposal-decorators": "^7.25.9",
     "@ember/legacy-built-in-components": "^0.4.1",
     "@ember/optional-features": "^2.2.0",
