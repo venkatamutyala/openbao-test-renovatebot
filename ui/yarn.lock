@@ -14119,9 +14119,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ember-basic-dropdown@npm:6.0.1":
-  version: 6.0.1
-  resolution: "ember-basic-dropdown@npm:6.0.1"
+"ember-basic-dropdown@npm:6.0.2":
+  version: 6.0.2
+  resolution: "ember-basic-dropdown@npm:6.0.2"
   dependencies:
     "@ember/render-modifiers": ^2.0.4
     "@embroider/macros": ^1.2.0
@@ -14132,12 +14132,12 @@ __metadata:
     ember-cli-htmlbars: ^6.0.1
     ember-cli-typescript: ^4.2.1
     ember-element-helper: ^0.6.0
-    ember-get-config: ^1.0.2 || ^2.0.0
+    ember-get-config: ^2.1.1
     ember-maybe-in-element: ^2.0.3
     ember-modifier: ^3.2.7
-    ember-style-modifier: ^0.8.0
+    ember-style-modifier: ^0.8.0 || ^1.0.0
     ember-truth-helpers: ^2.1.0 || ^3.0.0
-  checksum: d6f00f202140d09a0c3d62d9104c5f63eb6b0f7228a17a3f2f9e37da66c82d6ba01503261ed886190ebb0afc3d737f6bc6ad609115528176bd81f72e5930508f
+  checksum: ee335fad17d6c691224f4eea37d2bfb9a2600e78f51d196b3a74ad795816b01328a89666f994f12d6f8f1924a912b0a4e0e6f4e1481489d679c4f0a0f5bc64f3
   languageName: node
   linkType: hard
 
@@ -15261,7 +15261,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ember-get-config@npm:^1.0.2 || ^2.0.0, ember-get-config@npm:^2.1.1":
+"ember-get-config@npm:^2.1.1":
   version: 2.1.1
   resolution: "ember-get-config@npm:2.1.1"
   dependencies:
@@ -15667,6 +15667,16 @@ __metadata:
     ember-cli-babel: ^7.26.6
     ember-modifier: ^3.2.7
   checksum: ae105c24d05be275d47eff3563f0df9d59c4047c4b6afcc2903dbbfa87d5833ccd66bf5e6bee6244505cba404289f5f302112bb4d83f4edf9400507bb4ffe877
+  languageName: node
+  linkType: hard
+
+"ember-style-modifier@npm:^0.8.0 || ^1.0.0":
+  version: 1.0.0
+  resolution: "ember-style-modifier@npm:1.0.0"
+  dependencies:
+    ember-cli-babel: ^7.26.11
+    ember-modifier: ^3.2.7
+  checksum: e6f2aed248dcc27074c07f7ddb7bce4ca0e824dfef0845aba4b53d8ca4f92080b4dc37cae89593b66fa3aff6b89456718bf36b5b3f85558a132f08c76cc990c6
   languageName: node
   linkType: hard
 
@@ -28130,7 +28140,7 @@ __metadata:
     doctoc: ^2.2.1
     dompurify: ^3.0.2
     ember-auto-import: 2.10.0
-    ember-basic-dropdown: 6.0.1
+    ember-basic-dropdown: 6.0.2
     ember-cli: ~4.4.0
     ember-cli-autoprefixer: ^0.8.1
     ember-cli-babel: ^7.26.11
