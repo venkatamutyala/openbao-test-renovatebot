@@ -15490,16 +15490,11 @@ __metadata:
   linkType: hard
 
 "ember-resolver@npm:*, ember-resolver@npm:^13.1.0":
-  version: 13.1.0
-  resolution: "ember-resolver@npm:13.1.0"
+  version: 13.1.1
+  resolution: "ember-resolver@npm:13.1.1"
   dependencies:
     ember-cli-babel: ^7.26.11
-  peerDependencies:
-    ember-source: ^4.12.0 || >= 5.0.0
-  peerDependenciesMeta:
-    ember-source:
-      optional: true
-  checksum: 050e0b7911924c76572cbd8e27ab2f6459de37b8bce86b1498547b330bf30bcdaed8d2575e32da4900e09f4fe4f5cc556dc23d49e7cbddac0455b6763dd3d3ee
+  checksum: 2e4644a270a22914c6aabe848e958f7708238a8a0b4727651360d94b1d03f00dabb8c88f970847b2b4e5f70fafd3b88a477ed1f49e474d7d1fe729481d55903c
   languageName: node
   linkType: hard
 
