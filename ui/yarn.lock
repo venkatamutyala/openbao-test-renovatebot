@@ -7081,11 +7081,11 @@ __metadata:
   linkType: hard
 
 "@types/ember__service@npm:*, @types/ember__service@npm:^4.0.1":
-  version: 4.0.1
-  resolution: "@types/ember__service@npm:4.0.1"
+  version: 4.0.9
+  resolution: "@types/ember__service@npm:4.0.9"
   dependencies:
     "@types/ember__object": "*"
-  checksum: f4b8c161e13148d6fa3930a4fcd80e454aad1bb2688ec2c2da6cbb9b6e20a8c3b78308dfa10cb4ec5c42696ca77930d7133093d3c2cf8f41c883d456e2d444cf
+  checksum: 1459e93f13a019a5d824349642aa39b7b7e1ddb6970f04592076b2c1f2027a98f43acf5bda20874cfe45821f8731e982abeff0f09bed6f00bdc468ba1ee28dfd
   languageName: node
   linkType: hard
 
