@@ -7051,9 +7051,9 @@ __metadata:
   linkType: hard
 
 "@types/ember__polyfills@npm:*, @types/ember__polyfills@npm:^4.0.1":
-  version: 4.0.1
-  resolution: "@types/ember__polyfills@npm:4.0.1"
-  checksum: a2b6ed3b0637fdeb6d4c93a3a1d5b7902e57124c860bf9bf82f1ea4148264991b8f0311ea6a8a50f5b243804f93650fc2a5f97a53192e0687213b41a5499e4be
+  version: 4.0.6
+  resolution: "@types/ember__polyfills@npm:4.0.6"
+  checksum: 331d2dd66d106ffd67866d20186da1d6321080692de174bc7f61618735228f67ae41bc435c79fbce9532bd0a63d3489f73843edefe555f63021d28ee70fb0ea8
   languageName: node
   linkType: hard
 
