@@ -7033,13 +7033,12 @@ __metadata:
   linkType: hard
 
 "@types/ember__object@npm:*, @types/ember__object@npm:^4.0.5":
-  version: 4.0.5
-  resolution: "@types/ember__object@npm:4.0.5"
+  version: 4.0.12
+  resolution: "@types/ember__object@npm:4.0.12"
   dependencies:
     "@types/ember": "*"
-    "@types/ember__object": "*"
     "@types/rsvp": "*"
-  checksum: 445b5eef70f37c9f06da284742758e4626a3421c1f2e425bdbc7c9952cff14d8ce539f93d1c83b2836f043d4f10c20524a0ca1c7d58dee5db8f68893c1fd9c1e
+  checksum: 0c17e20b59e0c530be61cd539a01845aecebabb3750c0e2b5ca6af5118b3ddbffe75bedeaa1d279a19cbc216e1b6085207c130bf5c0cc9a172a354eb034c13d3
   languageName: node
   linkType: hard
 
