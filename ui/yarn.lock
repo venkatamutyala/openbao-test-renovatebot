@@ -14374,30 +14374,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ember-cli-htmlbars@npm:^5.2.0":
-  version: 5.7.2
-  resolution: "ember-cli-htmlbars@npm:5.7.2"
-  dependencies:
-    "@ember/edition-utils": ^1.2.0
-    babel-plugin-htmlbars-inline-precompile: ^5.0.0
-    broccoli-debug: ^0.6.5
-    broccoli-persistent-filter: ^3.1.2
-    broccoli-plugin: ^4.0.3
-    common-tags: ^1.8.0
-    ember-cli-babel-plugin-helpers: ^1.1.1
-    ember-cli-version-checker: ^5.1.2
-    fs-tree-diff: ^2.0.1
-    hash-for-dep: ^1.5.1
-    heimdalljs-logger: ^0.1.10
-    json-stable-stringify: ^1.0.1
-    semver: ^7.3.4
-    silent-error: ^1.1.1
-    strip-bom: ^4.0.0
-    walk-sync: ^2.2.0
-  checksum: 57cfba7311969f2f6ae463cb7be153b10d1384469e7e61fc645bf6eca5c8bb7dbdf42cab757adf05299971b426a19ad6cc3f045d2cbf72304405eb93cc1af998
-  languageName: node
-  linkType: hard
-
 "ember-cli-htmlbars@npm:^5.3.1, ember-cli-htmlbars@npm:^5.7.1":
   version: 5.7.1
   resolution: "ember-cli-htmlbars@npm:5.7.1"
@@ -14467,6 +14443,28 @@ __metadata:
   languageName: node
   linkType: hard
 
+"ember-cli-htmlbars@npm:^6.1.1, ember-cli-htmlbars@npm:^6.3.0":
+  version: 6.3.0
+  resolution: "ember-cli-htmlbars@npm:6.3.0"
+  dependencies:
+    "@ember/edition-utils": ^1.2.0
+    babel-plugin-ember-template-compilation: ^2.0.0
+    babel-plugin-htmlbars-inline-precompile: ^5.3.0
+    broccoli-debug: ^0.6.5
+    broccoli-persistent-filter: ^3.1.2
+    broccoli-plugin: ^4.0.3
+    ember-cli-version-checker: ^5.1.2
+    fs-tree-diff: ^2.0.1
+    hash-for-dep: ^1.5.1
+    heimdalljs-logger: ^0.1.10
+    js-string-escape: ^1.0.1
+    semver: ^7.3.4
+    silent-error: ^1.1.1
+    walk-sync: ^2.2.0
+  checksum: 30639ab2afd4cdf4edf677d6dfdef61865ee1be46449b123917c12a3119346f769573f55897ec3bb2a2dd05bd0e3a645ecc0090453d53545902fd21fbce3d057
+  languageName: node
+  linkType: hard
+
 "ember-cli-htmlbars@npm:^6.2.0":
   version: 6.2.0
   resolution: "ember-cli-htmlbars@npm:6.2.0"
@@ -14486,28 +14484,6 @@ __metadata:
     silent-error: ^1.1.1
     walk-sync: ^2.2.0
   checksum: 1a0f94152ae381aed4c0300f4d8e756d60bfc4dfd1357fd49a0d36d420d65d6dc3f5761e604976f63edd11bc264959dddbd1b4c8401e9922711eafc748f4df92
-  languageName: node
-  linkType: hard
-
-"ember-cli-htmlbars@npm:^6.3.0":
-  version: 6.3.0
-  resolution: "ember-cli-htmlbars@npm:6.3.0"
-  dependencies:
-    "@ember/edition-utils": ^1.2.0
-    babel-plugin-ember-template-compilation: ^2.0.0
-    babel-plugin-htmlbars-inline-precompile: ^5.3.0
-    broccoli-debug: ^0.6.5
-    broccoli-persistent-filter: ^3.1.2
-    broccoli-plugin: ^4.0.3
-    ember-cli-version-checker: ^5.1.2
-    fs-tree-diff: ^2.0.1
-    hash-for-dep: ^1.5.1
-    heimdalljs-logger: ^0.1.10
-    js-string-escape: ^1.0.1
-    semver: ^7.3.4
-    silent-error: ^1.1.1
-    walk-sync: ^2.2.0
-  checksum: 30639ab2afd4cdf4edf677d6dfdef61865ee1be46449b123917c12a3119346f769573f55897ec3bb2a2dd05bd0e3a645ecc0090453d53545902fd21fbce3d057
   languageName: node
   linkType: hard
 
@@ -15271,18 +15247,6 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ember-in-element-polyfill@npm:^1.0.1":
-  version: 1.0.1
-  resolution: "ember-in-element-polyfill@npm:1.0.1"
-  dependencies:
-    debug: ^4.3.1
-    ember-cli-babel: ^7.23.1
-    ember-cli-htmlbars: ^5.3.1
-    ember-cli-version-checker: ^5.1.2
-  checksum: fda95b1bd56dd2eefea014e9131eb03d5e3f34aa08c4f7b2fd4e717d001aa3a029c7a9d1725975085641924be7924c43f12ecade5642677d405f9566776c1507
-  languageName: node
-  linkType: hard
-
 "ember-inflector@npm:4.0.2, ember-inflector@npm:^2.0.0 || ^3.0.0 || ^4.0.2, ember-inflector@npm:^4.0.2":
   version: 4.0.2
   resolution: "ember-inflector@npm:4.0.2"
@@ -15320,14 +15284,13 @@ __metadata:
   linkType: hard
 
 "ember-maybe-in-element@npm:^2.0.3":
-  version: 2.0.3
-  resolution: "ember-maybe-in-element@npm:2.0.3"
+  version: 2.1.0
+  resolution: "ember-maybe-in-element@npm:2.1.0"
   dependencies:
-    ember-cli-babel: ^7.21.0
-    ember-cli-htmlbars: ^5.2.0
-    ember-cli-version-checker: ^5.1.1
-    ember-in-element-polyfill: ^1.0.1
-  checksum: 4bd0e66f748eac053dc2fed2b19a227bd159eb84cb1084bea2941af454a1135969a6efb36c298a9c06c36a7697e34819e9ff0ef1dcb18fa64d11dce09b75b523
+    ember-cli-babel: ^7.26.11
+    ember-cli-htmlbars: ^6.1.1
+    ember-cli-version-checker: ^5.1.2
+  checksum: fbe6282329048c3b811c6f6df9acb821dcc085de96f5cf28135ed3e46186b72f0ce198a53ed3c3a451308eb3f77983c68db97ee1d0d406deda77faef1a89d777
   languageName: node
   linkType: hard
 
