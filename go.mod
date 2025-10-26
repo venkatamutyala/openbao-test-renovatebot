@@ -101,6 +101,7 @@ require (
 	github.com/mitchellh/reflectwalk v1.0.2
 	github.com/oklog/run v1.2.0
 	github.com/okta/okta-sdk-golang/v2 v2.20.0
+	github.com/okta/okta-sdk-golang/v5 v5.0.5
 	github.com/openbao/go-kms-wrapping/v2 v2.5.0
 	github.com/openbao/go-kms-wrapping/wrappers/aead/v2 v2.2.0
 	github.com/openbao/go-kms-wrapping/wrappers/alicloudkms/v2 v2.2.0
