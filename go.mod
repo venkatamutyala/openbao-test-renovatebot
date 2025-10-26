@@ -30,6 +30,7 @@ require (
 	github.com/armon/go-radix v1.0.0
 	github.com/caddyserver/certmagic v0.25.0
 	github.com/cenkalti/backoff/v4 v4.3.0
+	github.com/cenkalti/backoff/v5 v5.0.3
 	github.com/coreos/go-systemd/v22 v22.6.0
 	github.com/duosecurity/duo_api_golang v0.0.0-20190308151101-6c680f768e74
 	github.com/fatih/color v1.18.0
