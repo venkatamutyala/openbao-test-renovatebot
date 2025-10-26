@@ -31,7 +31,7 @@ require (
 	github.com/caddyserver/certmagic v0.25.0
 	github.com/cenkalti/backoff/v4 v4.3.0
 	github.com/coreos/go-systemd/v22 v22.6.0
-	github.com/duosecurity/duo_api_golang v0.0.0-20190308151101-6c680f768e74
+	github.com/duosecurity/duo_api_golang v0.0.0-20250430191550-ac36954387e7
 	github.com/fatih/color v1.18.0
 	github.com/gammazero/workerpool v1.1.3
 	github.com/go-errors/errors v1.5.1
