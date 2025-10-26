@@ -10,7 +10,7 @@ go 1.24.0
 replace github.com/openbao/openbao/api/v2 => ../api
 
 require (
-	github.com/armon/go-metrics v0.4.1
+	github.com/armon/go-metrics v0.5.4
 	github.com/armon/go-radix v1.0.0
 	github.com/cenkalti/backoff/v4 v4.3.0
 	github.com/docker/docker v28.3.3+incompatible
