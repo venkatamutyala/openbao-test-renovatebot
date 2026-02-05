@@ -6,7 +6,7 @@ toolchain go1.24.3
 
 replace github.com/openbao/openbao/api/v2 => ../../
 
-require github.com/openbao/openbao/api/v2 v2.1.0
+require github.com/openbao/openbao/api/v2 v2.5.1
 
 require (
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
