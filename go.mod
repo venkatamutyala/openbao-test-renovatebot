@@ -153,7 +153,7 @@ require (
 	k8s.io/api v0.34.1
 	k8s.io/apimachinery v0.34.1
 	k8s.io/client-go v0.34.1
-	k8s.io/utils v0.0.0-20250604170112-4c0f3b243397
+	k8s.io/utils v0.0.0-20260507154919-ff6756f316d2
 	layeh.com/radius v0.0.0-20230922032716-6579be8edf5d
 	sigs.k8s.io/yaml v1.6.0
 	zgo.at/zcache/v2 v2.4.1
